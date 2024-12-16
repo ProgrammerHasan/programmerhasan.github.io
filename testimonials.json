@@ -1,8 +1,20 @@
 [
 	{
+		"author": "Riajul Islam",
+		"author_title": "CTO at Sasthya Seba Limited | Laravel | Flutter | Qwik | Daily Islam",
+		"text": "Programmer Hasan is an excellent passionated Programmer, He has very diverse set of experiences with Software Development, and a quick learner.",
+		"rating": 5
+	},
+	{
 		"author": "Kym S.",
 		"author_title": "US Client",
 		"text": "Great Programmer with high skills. He works very professionally and is in constant communication. It has been a great experience for me, and I am very happy & satisfied with his work. Thank you so much!",
+		"rating": 5
+	},
+	{
+		"author": "Prosun Bepari",
+		"author_title": "Resident Mentor @ Accelerating Bangladesh | Entreprenure | Explorer",
+		"text": "Mehedi Hassan is an extraordinary software developer.",
 		"rating": 5
 	},
 	{
@@ -24,13 +36,19 @@
 		"rating": 5
 	},
 	{
+		"author": "MD Tipu Sultan",
+		"author_title": "Web Developer | Android App Developer | Digital Marketing Specialist",
+		"text": "Programmer Hasan is an outstanding and dedicated programmer with a genuine passion for his work. He possesses a diverse range of experiences in software development and demonstrates a remarkable ability to learn quickly. Hasan consistently delivers high-quality results and is a valuable asset to any project. I highly recommend him for any programming tasks.",
+		"rating": 5
+	},
+	{
 		"author": "K.M Khurshed Alam",
 		"author_title": "CEO & Programmer - Skytaa C-Tech",
 		"text": "Really Hasan is a Good Designer and Developer.That's a great Young man.",
 		"rating": 5
 	},
 	{
-		"author": "Afta Hossian",
+		"author": "Aftab Hossian",
 		"author_title": "",
 		"text": "Mehedi Hasan was developed and made him as a Professional Software Programmer. Really he was a brilliant Student. At the first moment I felt he will be a smart Developer himself. He has completed the short diploma in computer science and he achieved a GPA+ certification after two years. He has experience not only as software programmer but also a &Web-Developer and Graphic Designer. I like to assist him for each sector of IT solution. I wish his Shining future and prosper in his technical life.",
 		"rating": 5

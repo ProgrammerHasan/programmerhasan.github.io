@@ -1,0 +1,233 @@
+[
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "Al-Quran Bangla",
+		"short_description": "Al-Quran Bangla - আল-কুরআন বাংলা - No Ads",
+		"logo": "https:\/\/play-lh.googleusercontent.com\/rIVD3ty2Dvc5x1rncA051U4vCJOmOY9nrqdQdSWHHioFWrK6uCdasoqF6kf8r5aSj1Y=s180-rw",
+		"url": "https:\/\/play.google.com\/store\/apps\/details?id=com.programmerhasan.alquran",
+		"client": "",
+		"company":"Ms IT Xpress",
+		"position": "Founder & CEO"
+	},
+	{
+		"id": 2,
+		"platform": "Android",
+		"name": "Biman Employee",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/_gFkv3vh3V4iLzfSfDct_Onv9qIyVURMz31oHc64u2rwzKehCSXzqse5W4U4hQFigA8=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=net.excellentsoft.biman_employee",
+		"client": "Biman Bangladesh Airlines",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 3,
+		"platform": "Android",
+		"name": "Biman Special Care",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/_gFkv3vh3V4iLzfSfDct_Onv9qIyVURMz31oHc64u2rwzKehCSXzqse5W4U4hQFigA8=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=com.apsbiman.biman_special_care",
+		"client": "Biman Bangladesh Airlines",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 3,
+		"platform": "Android",
+		"name": "Biman Hajj Flight",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/5N5PVRva9S2iKEUirEmt50_AtE5oYMIVmwVk3LZDHpAbIhJcwahdeJ0oGw2c_6TONokF=w240-h480-rw",
+		"url": "https://play.google.com/store/apps/details?id=com.apsbiman.bimanhajjflights",
+		"client": "Biman Bangladesh Airlines",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 3,
+		"platform": "Android",
+		"name": "Arabica Coffee",
+		"short_description": "Official App of Arabica Coffee for employee to manage customer visiting & other reports.",
+		"logo": "https://play-lh.googleusercontent.com/yZKIQlPr4MSxThVZ4P4tsePOCsI35liVcDVYzw4WDWMXLoosc7nIYUuLq6NwZVz09PI=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=com.arabicacoffeebd.app",
+		"client":"",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 5,
+		"platform": "Android",
+		"name": "Islamic Books - ইসলামিক বই",
+		"short_description": "Islamic Books are the best free application to read on your smartphones and tablets. An Online Islamic Book Library. E-library for Islamic Books.",
+		"logo": "https://play-lh.googleusercontent.com/VEOStfBnqOHBQYCounl6SJy0CAd86IfROcrwwJKx_dyHHQMtoal1sbHwR08H6WWyonk=s180-rw",
+		"url": "https:\/\/play.google.com\/store\/apps\/details?id=com.msitxpress.islamic_books",
+		"client": "",
+		"company":"Ms IT Xpress",
+		"position": "Founder & CEO"
+	},
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "EGSHOP",
+		"short_description": "EGSHOP - food and more, delivered",
+		"logo": "https://play-lh.googleusercontent.com/XtmwLMLLSBoWo_CErDsQhIZvaryx9wrohFcuyegHPVC1Pi7ac6ttnfamDY8EWDaq88Q=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=bd.com.egshop.app",
+		"client": "",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 6,
+		"platform": "Android",
+		"name": "বিয়ে দ্বীনের অর্ধেক",
+		"short_description": "যে ব্যক্তি বিয়ে করলো সে তার অর্ধেক দ্বীন পূর্ণ  করে ফেললো। বাকি অর্ধেকের জন্য সে আল্লাহকে ভয় করুক।\r\n--বায়হাকী, শু’আবুল ঈমান – ৫৪৮৬",
+		"logo": "https://play-lh.googleusercontent.com/GzEiyfG-ayIvie5SccPNBb3bhFfvWh7MjLcmzD9PDH3_kVQISGhTu1B2ugBSUaVkgque=s180-rw",
+		"url": "https:\/\/play.google.com\/store\/apps\/details?id=com.programmerhasan.biye_ordhek_deen",
+		"client": "",
+		"company":"Ms IT Xpress",
+		"position": "Founder & CEO"
+	},
+	{
+		"id": 3,
+		"platform": "Android",
+		"name": "99 Names Of Allah",
+		"short_description": "99 Names Of Allah - Bangla & English Meaning with Audio & Fazilat.আল্লাহর ৯৯ নাম",
+		"logo": "https:\/\/play-lh.googleusercontent.com\/PDOqkmrTJFgnC5Qfa4HkWFqXaYmtDjIYgBDNYsK0TcqdkifLvZDDQjL5XZYZMgv0K2A=s180-rw",
+		"url": "https:\/\/play.google.com\/store\/apps\/details?id=com.msitxpress.names_of_allah",
+		"client": "",
+		"company":"Ms IT Xpress",
+		"position": "Founder & CEO"
+	},
+	{
+		"id": 7,
+		"platform": "Android",
+		"name": "ফিরে এসো রবের ভালোবাসায়",
+		"short_description": "ছিঁড়ে ফেলুন অতীতের করা সকল পাপের অধ্যায়। ফিরে আসুন \"রবের\" ভালোবাসায় ❤\r\nফিরে আসুন আল্লাহর দিকে হে আমার ভাই\/বোন ।",
+		"logo": "https://play-lh.googleusercontent.com/aKDsxVUJYRWKAlH_9KSh8pmI-cEK23poqbqNLz4Ts_djKV-Q8Csvu52f5qciyt_WEw=s180-rw",
+		"url": "https:\/\/play.google.com\/store\/apps\/details?id=com.programmerhasan.go_back_to_your_lord",
+		"client": "",
+		"company":"Ms IT Xpress",
+		"position": "Founder & CEO"
+	},
+	{
+		"id": 2,
+		"platform": "Android",
+		"name": "পাঁচ কালেমা",
+		"short_description": "Five Kalima of Islam - পাঁচ কালেমা ও ৩০ টি ছোট সূরা বাংলা অর্থ সহ অডিও ।",
+		"logo": "https://play-lh.googleusercontent.com/Nt28XCyZRkqHOCnuvEJKA1CqM2Cl7UIsI-2j_nkp9XM2-wKVL69n1qBYPD1kqS_MyWtw=s180-rw",
+		"url": "https:\/\/play.google.com\/store\/apps\/details?id=com.msitxpress.five_kalima",
+		"client": "",
+		"company":"Ms IT Xpress",
+		"position": "Founder & CEO"
+	},
+	{
+		"id": 2,
+		"platform": "Windows",
+		"name": "পাঁচ কালেমা",
+		"short_description": "Five Kalima of Islam - পাঁচ কালেমা ও ৩০ টি ছোট সূরা বাংলা অর্থ সহ অডিও ।",
+		"logo": "https://store-images.s-microsoft.com/image/apps.63371.13714679490090713.2fd2baa6-e6c4-48fe-87d8-bc838f728465.e4d947c8-d561-45d3-915b-5c086c15b9ba?mode=scale&q=90&h=1080&w=1920",
+		"url": "https://www.microsoft.com/store/productId/9NL4KCW367BQ",
+		"client": "",
+		"company":"Ms IT Xpress",
+		"position": "Founder & CEO"
+	},
+	{
+		"id": 4,
+		"platform": "Android",
+		"name": "Names Of Prophet Muhammad SAW হযরত মুহাম্মদ (সাঃ)",
+		"short_description": "99 Names Of Prophet Muhammad SAW হযরত মুহাম্মদ (সাঃ) - Bangla & English Meaning with Audio.হযরত মুহাম্মদ (সাঃ) ৯৯ নাম",
+		"logo": "https:\/\/play-lh.googleusercontent.com\/bVMjfYh_Qm0pGsX9E1vh3_xfDxxEVIJbLkPGaMMH9ehSq6a1j6U_6JwhZ8Zl4xPOI8Eo=s180-rw",
+		"url": "https:\/\/play.google.com\/store\/apps\/details?id=com.msitxpress.names_of_prophet_muhammad_saw",
+		"client": "",
+		"company":"Ms IT Xpress",
+		"position": "Founder & CEO"
+	},
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "Asst Upazila Education Officer",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/duLEprjQH4yAdOsarTJec1NT11uTtZXIxFYFPqKZC4rwMRxAAYm4NSYWuMT7Nd4RefEI=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=com.quranictutor.asst_education_officer_association",
+		"client": "Bangladesh Assistant Upazila Education Officer Association",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "Da'wah Alumni Association",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/PhaAJJ-z1JRmxkYhw7iFTmwKGNwJuWn0Mhf4UukZhxjV8oFjS_v4JYINMetdFjAWRY8=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=com.quranictutor.alumni_association_dawah",
+		"client": "Islamic University, Bangladesh",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "Muslim Modern Academy",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/MZNbRCAOK9JKjOqiMdh0qLYfkfl4WhbAzBrZsXEyfkmLK0IAYYayZrgsNp1Dur1OdBk=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=com.quranictutor.muslim_modern_academy",
+		"client": "",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "Al-Quran Bangla (Lahori Font)",
+		"short_description": "Al-Quran app (Bangla) is a multi-platform application (Android, iOS, Web) developed for advance Qur-an learners, especially for Bangla language base Muslims of the sub-continent.",
+		"logo": "https://play-lh.googleusercontent.com/BjSm3dLVslhqAg5ygTUGTdmI72h-TUok5tKuuDKlZUmN8VTbjU4qTl3-hQRwUk_pGYw=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.app",
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "AlQuran Bangla - Kolikata Font",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/lRotwdWHIUq4533gnG_4n2l1sEbQGNSEnSQg-zUB9u9C2aidNnDttzCqX0cyx4GZHQkx=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.app_kolikata2",
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "40 Rabbana in Al-Quran",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/oiioz3OsHKbqIPoLwvZ2g8SM7JS6jLYguRmJzb7yPX4Ebx7pVJP1RCvQY9XxpjgcqMr7=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.rabbana_app",
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "Al-Quraner Shobdo-gulir Ortho",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/MlD73v6ruSYwDiXt33MlWcJVkFuovu8NH-iM72NUfAce-lPkChai8XEn5AH-wLZ142Q=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.alquraner_sobduguli_orthu",
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	},
+	{
+		"id": 1,
+		"platform": "Android",
+		"name": "Subject wise Quran",
+		"short_description": "",
+		"logo": "https://play-lh.googleusercontent.com/HgKMhjGip7oQSR5thtOQDAA5MB5kXJOfPZljXNIyMG7u_w4MUkhXuIfa2Rke2tS5ws4=s180-rw",
+		"url": "https://play.google.com/store/apps/details?id=org.alquranbd.subject_wise_quran",
+		"client": "Moinul Hossain",
+		"company":"Excellent Soft",
+		"position": "Senior Software Developer"
+	}
+]

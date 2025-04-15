@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Al-Quran Bangla",
+    "short_description": "Al-Quran Bangla - আল-কুরআন বাংলা - No Ads",
+    "logo": "https://play-lh.googleusercontent.com/rIVD3ty2Dvc5x1rncA051U4vCJOmOY9nrqdQdSWHHioFWrK6uCdasoqF6kf8r5aSj1Y=s180-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.programmerhasan.alquran"
+  },
+  {
+    "id": 5,
+    "name": "Islamic Books - ইসলামিক বই",
+    "short_description": "Islamic Books are the best free application to read on your smartphones and tablets. An Online Islamic Book Library. E-library for Islamic Books.",
+    "logo": "https://play-lh.googleusercontent.com/VEOStfBnqOHBQYCounl6SJy0CAd86IfROcrwwJKx_dyHHQMtoal1sbHwR08H6WWyonk=s180-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.msitxpress.islamic_books"
+  },
+  {
+    "id": 6,
+    "name": "বিয়ে দ্বীনের অর্ধেক",
+    "short_description": "যে ব্যক্তি বিয়ে করলো সে তার অর্ধেক দ্বীন পূর্ণ  করে ফেললো। বাকি অর্ধেকের জন্য সে আল্লাহকে ভয় করুক।\r\n--বায়হাকী, শু’আবুল ঈমান – ৫৪৮৬",
+    "logo": "https://play-lh.googleusercontent.com/GzEiyfG-ayIvie5SccPNBb3bhFfvWh7MjLcmzD9PDH3_kVQISGhTu1B2ugBSUaVkgque=s180-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.programmerhasan.biye_ordhek_deen"
+  },
+  {
+    "id": 3,
+    "name": "99 Names Of Allah",
+    "short_description": "99 Names Of Allah - Bangla & English Meaning with Audio & Fazilat.আল্লাহর ৯৯ নাম",
+    "logo": "https://play-lh.googleusercontent.com/PDOqkmrTJFgnC5Qfa4HkWFqXaYmtDjIYgBDNYsK0TcqdkifLvZDDQjL5XZYZMgv0K2A=s180-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.msitxpress.names_of_allah"
+  },
+  {
+    "id": 7,
+    "name": "ফিরে এসো রবের ভালোবাসায়",
+    "short_description": "ছিঁড়ে ফেলুন অতীতের করা সকল পাপের অধ্যায়। ফিরে আসুন \"রবের\" ভালোবাসায় ❤\r\nফিরে আসুন আল্লাহর দিকে হে আমার ভাই/বোন ।",
+    "logo": "https://play-lh.googleusercontent.com/aKDsxVUJYRWKAlH_9KSh8pmI-cEK23poqbqNLz4Ts_djKV-Q8Csvu52f5qciyt_WEw=s180-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.programmerhasan.go_back_to_your_lord"
+  },
+  {
+    "id": 2,
+    "name": "পাঁচ কালেমা",
+    "short_description": "Five Kalima of Islam - পাঁচ কালেমা ও ৩০ টি ছোট সূরা বাংলা অর্থ সহ অডিও ।",
+    "logo": "https://play-lh.googleusercontent.com/Nt28XCyZRkqHOCnuvEJKA1CqM2Cl7UIsI-2j_nkp9XM2-wKVL69n1qBYPD1kqS_MyWtw=s180-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.msitxpress.five_kalima"
+  },
+  {
+    "id": 4,
+    "name": "\t\r\nNames Of Prophet Muhammad SAW হযরত মুহাম্মদ (সাঃ)",
+    "short_description": "99 Names Of Prophet Muhammad SAW হযরত মুহাম্মদ (সাঃ) - Bangla & English Meaning with Audio.হযরত মুহাম্মদ (সাঃ) ৯৯ নাম",
+    "logo": "https://play-lh.googleusercontent.com/bVMjfYh_Qm0pGsX9E1vh3_xfDxxEVIJbLkPGaMMH9ehSq6a1j6U_6JwhZ8Zl4xPOI8Eo=s180-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.msitxpress.names_of_prophet_muhammad_saw"
+  }
+]
